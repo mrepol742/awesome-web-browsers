@@ -1,4 +1,6 @@
-# Awesome Web Browsers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Web Browsers
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub contributors](https://img.shields.io/github/contributors/mrepol742/awesome-web-browsers)](https://github.com/mrepol742/awesome-web-browsers/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/mrepol742/awesome-web-browsers)](https://github.com/mrepol742/awesome-web-browsers/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/mrepol742/awesome-web-browsers/pulls) [![HitCount](https://views.whatilearened.today/views/github/mrepol742/awesome-web-browsers.svg)](https://github.com/mrepol742/awesome-web-browsers)
 
 A curated list of awesome web browsers for desktop, mobile, terminal etc.
 
